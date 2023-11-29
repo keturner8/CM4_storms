@@ -1,0 +1,19 @@
+if [ "$#" -ne 1 ]; then
+    echo "Usage: $0 [EXPERIMENT NAME] (e.g., $0 odiv-251)"
+    exit 1
+fi
+
+dir_path="/work/Katherine.Turner/tempest-extremes/kernel/"
+
+req_file_kernel="kernel_list.txt"
+req_file_exp="histogram_$1_3d.nc"
+
+if [ -e "$dir_path/$req_file_kernel" ] && [ -e "$dir_path/$req_file_exp" ]; then
+    echo "Kernel and repeat histogram exist for $1. Running code"
+    
+    NodeFileFilter --in_nodefile "$dir_path/kernel_list.txt" --in_fmt "lon,lat,slp" --in_data "$dir_path/$req_file_exp" --out_data "$dir_path/mhist_$1_3d.nc" --var "storm_dens" --bydist 5.0 --maskvar "mask"
+
+else
+    echo "Error: kernel or repeated histogram not found in directory '$dir_path'. Run functions in create_5deg_histogram.ipynb."
+    exit 1
+fi

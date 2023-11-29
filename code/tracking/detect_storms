@@ -1,0 +1,40 @@
+if [ "$#" -ne 1 ]; then
+    echo "Usage: $0 [EXPERIMENT NAME] (e.g., $0 odiv-251)"
+    exit 1
+fi
+
+dir_path="/work/Katherine.Turner/tempest-extremes/$1"
+
+if [[ $1 == "ERA5" ]]; then
+    echo "Analyzing ERA data. Using variables msl, u10, and v10"
+
+    slp_var=msl
+    u_var=u10
+    v_var=v10
+    LAT=latitude
+    LON=longitude
+else
+    echo "Analyzing model data. Using variables slp, u_ref, and v_ref"
+
+    slp_var=slp
+    u_var=u_ref
+    v_var=v_ref
+    LAT=lat
+    LON=lon
+fi
+
+req_file_input="infiles.txt"
+req_file_DN="files_DN.txt"
+
+if [ -e "$dir_path/$req_file_input" ] && [ -e "$dir_path/$req_file_DN" ]; then
+    echo "Input files exist. Running DetectNodes and StitchNodes"
+
+    DetectNodes --in_data_list "$dir_path/infiles.txt" --out_file_list "$dir_path/files_DN.txt" --closedcontourcmd "$slp_var,200.0,6.0,0" --mergedist 8.0 --searchbymin "$slp_var" --outputcmd "$slp_var,min,0;_VECMAG($u_var,$v_var),max,5" --maxlat -30 --minlat -90 --latname "$LAT" --lonname "$LON"
+
+    StitchNodes --in_fmt "lon,lat,slp,wind" --in_list "$dir_path/files_DN.txt" --out "$dir_path/node_files/SH_SN.txt" --range 6.0 --mintime 60h --maxgap 18h --min_endpoint_dist 12.0 --caltype "noleap"
+
+    rm -f log00*.txt
+else
+    echo "Error: infiles.txt and files_DN.txt not found in directory '$dir_path'. Exiting."
+    exit 1
+fi
