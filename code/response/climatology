@@ -1,0 +1,12 @@
+if [ "$#" -ne 1 ]; then
+    echo "Usage: $0 [VARIABLE NAME] (e.g., $0 hfds)"
+    exit 1
+fi
+
+dir_path="/work/Katherine.Turner/tempest-extremes/odiv-251/data/"
+
+find "$dir_path" -type f -name "*$1.nc" | sort > infiles.txt
+
+Climatology --in_data_list infiles.txt --out_data "clim_$1.nc" --var "$1" --period "daily" --type "mean" --missingdata
+
+rm infiles.txt
