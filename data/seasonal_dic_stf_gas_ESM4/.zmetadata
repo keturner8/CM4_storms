@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        ".zattrs": {},
+        ".zgroup": {
+            "zarr_format": 2
+        },
+        "season/.zarray": {
+            "chunks": [
+                4
+            ],
+            "compressor": {
+                "blocksize": 0,
+                "clevel": 5,
+                "cname": "lz4",
+                "id": "blosc",
+                "shuffle": 1
+            },
+            "dtype": "|O",
+            "fill_value": null,
+            "filters": [
+                {
+                    "id": "vlen-utf8"
+                }
+            ],
+            "order": "C",
+            "shape": [
+                4
+            ],
+            "zarr_format": 2
+        },
+        "season/.zattrs": {
+            "_ARRAY_DIMENSIONS": [
+                "season"
+            ]
+        },
+        "seasonal_dic_stf_gas/.zarray": {
+            "chunks": [
+                2,
+                90,
+                288
+            ],
+            "compressor": {
+                "blocksize": 0,
+                "clevel": 5,
+                "cname": "lz4",
+                "id": "blosc",
+                "shuffle": 1
+            },
+            "dtype": "<f4",
+            "fill_value": "NaN",
+            "filters": null,
+            "order": "C",
+            "shape": [
+                4,
+                180,
+                288
+            ],
+            "zarr_format": 2
+        },
+        "seasonal_dic_stf_gas/.zattrs": {
+            "_ARRAY_DIMENSIONS": [
+                "season",
+                "y",
+                "x"
+            ],
+            "cell_measures": "area: areacello",
+            "cell_methods": "area:mean yh:mean xh:mean time: mean",
+            "coordinates": "lat lon",
+            "long_name": "Gas exchange flux of dic into Ocean Surface",
+            "regrid_method": "bilinear",
+            "time_avg_info": "average_T1,average_T2,average_DT",
+            "units": "mole/m^2/sec"
+        }
+    },
+    "zarr_consolidated_format": 1
+}

@@ -1,0 +1,14 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "season",
+        "y",
+        "x"
+    ],
+    "cell_measures": "area: areacello",
+    "cell_methods": "area:mean yh:mean xh:mean time: mean",
+    "coordinates": "lat lon",
+    "long_name": "Gas exchange flux of dic into Ocean Surface",
+    "regrid_method": "bilinear",
+    "time_avg_info": "average_T1,average_T2,average_DT",
+    "units": "mole/m^2/sec"
+}

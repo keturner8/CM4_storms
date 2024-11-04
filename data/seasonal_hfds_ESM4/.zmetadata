@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        ".zattrs": {},
+        ".zgroup": {
+            "zarr_format": 2
+        },
+        "season/.zarray": {
+            "chunks": [
+                4
+            ],
+            "compressor": {
+                "blocksize": 0,
+                "clevel": 5,
+                "cname": "lz4",
+                "id": "blosc",
+                "shuffle": 1
+            },
+            "dtype": "|O",
+            "fill_value": null,
+            "filters": [
+                {
+                    "id": "vlen-utf8"
+                }
+            ],
+            "order": "C",
+            "shape": [
+                4
+            ],
+            "zarr_format": 2
+        },
+        "season/.zattrs": {
+            "_ARRAY_DIMENSIONS": [
+                "season"
+            ]
+        },
+        "seasonal_hfds/.zarray": {
+            "chunks": [
+                2,
+                90,
+                288
+            ],
+            "compressor": {
+                "blocksize": 0,
+                "clevel": 5,
+                "cname": "lz4",
+                "id": "blosc",
+                "shuffle": 1
+            },
+            "dtype": "<f4",
+            "fill_value": "NaN",
+            "filters": null,
+            "order": "C",
+            "shape": [
+                4,
+                180,
+                288
+            ],
+            "zarr_format": 2
+        },
+        "seasonal_hfds/.zattrs": {
+            "_ARRAY_DIMENSIONS": [
+                "season",
+                "y",
+                "x"
+            ],
+            "cell_measures": "area: areacello",
+            "cell_methods": "area:mean yh:mean xh:mean time: mean",
+            "coordinates": "lat lon",
+            "interp_method": "conserve_order1",
+            "long_name": "Surface ocean heat flux from SW+LW+latent+sensible+masstransfer+frazil",
+            "regrid_method": "bilinear",
+            "standard_name": "surface_downward_heat_flux_in_sea_water",
+            "units": "W m-2"
+        }
+    },
+    "zarr_consolidated_format": 1
+}

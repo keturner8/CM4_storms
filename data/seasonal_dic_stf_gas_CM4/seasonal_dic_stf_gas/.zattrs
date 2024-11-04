@@ -1,0 +1,8 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "season",
+        "lat",
+        "lon"
+    ],
+    "regrid_method": "bilinear"
+}

@@ -1,0 +1,16 @@
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_cobalt_daily/ts/daily/5yr/ocean_cobalt_daily.00010101-00051231.dic_stf_gas.nc
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_cobalt_daily/ts/daily/5yr/ocean_cobalt_daily.00060101-00101231.dic_stf_gas.nc
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_cobalt_daily/ts/daily/5yr/ocean_cobalt_daily.00110101-00151231.dic_stf_gas.nc
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_cobalt_daily/ts/daily/5yr/ocean_cobalt_daily.00160101-00201231.dic_stf_gas.nc
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_cobalt_daily/ts/daily/5yr/ocean_cobalt_daily.00210101-00251231.dic_stf_gas.nc
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_cobalt_daily/ts/daily/5yr/ocean_cobalt_daily.00260101-00301231.dic_stf_gas.nc
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_cobalt_daily/ts/daily/5yr/ocean_cobalt_daily.00310101-00351231.dic_stf_gas.nc
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_cobalt_daily/ts/daily/5yr/ocean_cobalt_daily.00360101-00401231.dic_stf_gas.nc
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_cobalt_daily/ts/daily/5yr/ocean_cobalt_daily.00410101-00451231.dic_stf_gas.nc
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_cobalt_daily/ts/daily/5yr/ocean_cobalt_daily.00460101-00501231.dic_stf_gas.nc
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_cobalt_daily/ts/daily/5yr/ocean_cobalt_daily.00510101-00551231.dic_stf_gas.nc
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_cobalt_daily/ts/daily/5yr/ocean_cobalt_daily.00560101-00601231.dic_stf_gas.nc
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_cobalt_daily/ts/daily/5yr/ocean_cobalt_daily.00610101-00651231.dic_stf_gas.nc
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_cobalt_daily/ts/daily/5yr/ocean_cobalt_daily.00660101-00701231.dic_stf_gas.nc
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_cobalt_daily/ts/daily/5yr/ocean_cobalt_daily.00710101-00751231.dic_stf_gas.nc
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_cobalt_daily/ts/daily/5yr/ocean_cobalt_daily.00760101-00801231.dic_stf_gas.nc

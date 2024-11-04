@@ -1,0 +1,16 @@
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_daily_1x1deg/ts/daily/5yr/ocean_daily_1x1deg.00010101-00051231.hfds.nc
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_daily_1x1deg/ts/daily/5yr/ocean_daily_1x1deg.00060101-00101231.hfds.nc
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_daily_1x1deg/ts/daily/5yr/ocean_daily_1x1deg.00110101-00151231.hfds.nc
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_daily_1x1deg/ts/daily/5yr/ocean_daily_1x1deg.00160101-00201231.hfds.nc
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_daily_1x1deg/ts/daily/5yr/ocean_daily_1x1deg.00210101-00251231.hfds.nc
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_daily_1x1deg/ts/daily/5yr/ocean_daily_1x1deg.00260101-00301231.hfds.nc
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_daily_1x1deg/ts/daily/5yr/ocean_daily_1x1deg.00310101-00351231.hfds.nc
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_daily_1x1deg/ts/daily/5yr/ocean_daily_1x1deg.00360101-00401231.hfds.nc
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_daily_1x1deg/ts/daily/5yr/ocean_daily_1x1deg.00410101-00451231.hfds.nc
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_daily_1x1deg/ts/daily/5yr/ocean_daily_1x1deg.00460101-00501231.hfds.nc
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_daily_1x1deg/ts/daily/5yr/ocean_daily_1x1deg.00510101-00551231.hfds.nc
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_daily_1x1deg/ts/daily/5yr/ocean_daily_1x1deg.00560101-00601231.hfds.nc
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_daily_1x1deg/ts/daily/5yr/ocean_daily_1x1deg.00610101-00651231.hfds.nc
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_daily_1x1deg/ts/daily/5yr/ocean_daily_1x1deg.00660101-00701231.hfds.nc
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_daily_1x1deg/ts/daily/5yr/ocean_daily_1x1deg.00710101-00751231.hfds.nc
+/archive/Katherine.Turner/fre/FMS2021.02_mom6_ESM4_v1.0.3/ESM4_piControl_D/gfdl.ncrc5-intel23-prod-openmp/pp/ocean_daily_1x1deg/ts/daily/5yr/ocean_daily_1x1deg.00760101-00801231.hfds.nc
